@@ -1,0 +1,15 @@
+D:\Csharp\MetodosCsII\bin\Debug\net6.0\MetodosCsII.exe
+D:\Csharp\MetodosCsII\bin\Debug\net6.0\MetodosCsII.deps.json
+D:\Csharp\MetodosCsII\bin\Debug\net6.0\MetodosCsII.runtimeconfig.json
+D:\Csharp\MetodosCsII\bin\Debug\net6.0\MetodosCsII.dll
+D:\Csharp\MetodosCsII\bin\Debug\net6.0\MetodosCsII.pdb
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\MetodosCsII.csproj.AssemblyReference.cache
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\MetodosCsII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\MetodosCsII.AssemblyInfoInputs.cache
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\MetodosCsII.AssemblyInfo.cs
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\MetodosCsII.csproj.CoreCompileInputs.cache
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\MetodosCsII.dll
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\refint\MetodosCsII.dll
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\MetodosCsII.pdb
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\MetodosCsII.genruntimeconfig.cache
+D:\Csharp\MetodosCsII\obj\Debug\net6.0\ref\MetodosCsII.dll

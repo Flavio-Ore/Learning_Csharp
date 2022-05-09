@@ -1,0 +1,15 @@
+D:\Csharp\3.flow-control-structures\If-elseCs\bin\Debug\net6.0\If-elseCs.exe
+D:\Csharp\3.flow-control-structures\If-elseCs\bin\Debug\net6.0\If-elseCs.deps.json
+D:\Csharp\3.flow-control-structures\If-elseCs\bin\Debug\net6.0\If-elseCs.runtimeconfig.json
+D:\Csharp\3.flow-control-structures\If-elseCs\bin\Debug\net6.0\If-elseCs.dll
+D:\Csharp\3.flow-control-structures\If-elseCs\bin\Debug\net6.0\If-elseCs.pdb
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\If-elseCs.csproj.AssemblyReference.cache
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\If-elseCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\If-elseCs.AssemblyInfoInputs.cache
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\If-elseCs.AssemblyInfo.cs
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\If-elseCs.csproj.CoreCompileInputs.cache
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\If-elseCs.dll
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\refint\If-elseCs.dll
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\If-elseCs.pdb
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\If-elseCs.genruntimeconfig.cache
+D:\Csharp\3.flow-control-structures\If-elseCs\obj\Debug\net6.0\ref\If-elseCs.dll
