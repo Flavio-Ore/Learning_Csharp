@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 namespace program
 {   
     class Program
@@ -95,7 +95,106 @@ namespace program
         else 
             Console.WriteLine("Vuelve en septiembre");
 
-//--------------------------------------------------------------            
+            Console.WriteLine("¿Desea seguir en el bucle?");
+
+            Console.Write(" si / no  ");
+
+            result = Console.ReadLine(); //? Cambiamos el contenido de result.
+            //^ ambito de variable
+
+        }
+        */
+
+        Console.WriteLine();
+
+        //~ WHILE 2DO CASO
+//? Genera un numero aleatorio del 1 - 100. El programa debe pregunar por consola de qué numero se trata, como no sabemos cual es, introducimos un numero aleatorio, luego el programa debe indicar si el numero introducido es mayor o menor, hasta que insertemos el numero correcto, me debe indicar el numero de intentos que tomó adivinarlo y el que el número fue adivinado.
+
+//~ 1RA SOLUCION |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+        // Console.WriteLine("Adivine el número del 1 - 100 (no se mostrará en pantalla el número a adivinar)");
+        
+        // //numero aleatorio del 1 - 100.
+        // Random rand = new Random(); //genera numero aleatorio
+
+        // int numAleatorio = rand.Next(0,100); //entre 0 y 100
+
+        // //Console.WriteLine(numAleatorio); //!solo test
+
+
+        // //numero que ingresa el usuario        
+        // int numUser = Int32.Parse(Console.ReadLine());
+
+
+        // //numero de intentos
+        // int numIntentos = 0;
+
+
+        // //bucle while
+
+        // while (numAleatorio != numUser)
+        // {    
+        //     while (numAleatorio > numUser)
+        //     {
+        //         Console.WriteLine($"El numero es MAYOR a {numUser}");
+        //         numIntentos++;
+        //         numUser = Int32.Parse(Console.ReadLine());
+        //     };
+
+        //     while (numAleatorio < numUser)
+        //     {
+        //         Console.WriteLine($"El numero es MENOR a {numUser}");
+        //         numIntentos++;
+        //         numUser = Int32.Parse(Console.ReadLine());
+        //     };
+        // }
+
+        // Console.WriteLine($"Te tomó {numIntentos} intentos.");
+
+//~ 2DA SOLUCION |||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+         Console.WriteLine("Bienvenido al juego del bucle numérico");
+
+        Console.WriteLine();
+        
+        Console.WriteLine("Introduce tu nombre");
+
+        string Nombre = Console.ReadLine();
+
+        Console.WriteLine($"Bien {Nombre} introduce un número entre el 1 y el 100");
+
+        int nIngresado = Int32.Parse(Console.ReadLine());
+
+        Random numero = new Random();
+
+        int numeroAleatorio = numero.Next(0, 100);
+
+        int intentos = 0;
+
+        while (nIngresado != numeroAleatorio)
+        {
+            if (nIngresado < numeroAleatorio){
+
+                Console.WriteLine("Debes ingresar un número mayor");
+
+                nIngresado = int.Parse(Console.ReadLine());
+
+            } else if (nIngresado > numeroAleatorio) {
+
+                    Console.WriteLine("Debes ingresar un número menor");
+
+                    nIngresado = int.Parse(Console.ReadLine());
+                    
+                }
+
+                intentos++;
+            }
+            
+            Console.WriteLine("Felicitaciónes adivinaste el número del bucle");
+            Console.WriteLine();
+            Console.WriteLine($"{Nombre} tu número de intentos es {intentos}");
+//--------------------------------------------------------------------
+
+
         }
     }
 }

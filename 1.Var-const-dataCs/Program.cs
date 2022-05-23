@@ -1,4 +1,4 @@
-﻿/*
+/*
 .NET 5 :
 using System;
 
@@ -53,8 +53,8 @@ Console.WriteLine(edadModificacle);
 Console.WriteLine(edad2);
 Console.WriteLine(edad3);
 Console.WriteLine(edad4);
-//Console.WriteLine(edad9);
-//Console.WriteLine(edad7);
+Console.WriteLine(edad9);
+Console.WriteLine(edad7);
 
 //var
 var edadNoModificable = 11; //no se puede modificar
