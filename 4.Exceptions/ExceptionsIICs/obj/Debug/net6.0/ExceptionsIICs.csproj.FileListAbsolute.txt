@@ -1,0 +1,15 @@
+D:\Csharp\4.Exceptions\ExceptionsIICs\bin\Debug\net6.0\ExceptionsIICs.exe
+D:\Csharp\4.Exceptions\ExceptionsIICs\bin\Debug\net6.0\ExceptionsIICs.deps.json
+D:\Csharp\4.Exceptions\ExceptionsIICs\bin\Debug\net6.0\ExceptionsIICs.runtimeconfig.json
+D:\Csharp\4.Exceptions\ExceptionsIICs\bin\Debug\net6.0\ExceptionsIICs.dll
+D:\Csharp\4.Exceptions\ExceptionsIICs\bin\Debug\net6.0\ExceptionsIICs.pdb
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ExceptionsIICs.csproj.AssemblyReference.cache
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ExceptionsIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ExceptionsIICs.AssemblyInfoInputs.cache
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ExceptionsIICs.AssemblyInfo.cs
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ExceptionsIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ExceptionsIICs.dll
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\refint\ExceptionsIICs.dll
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ExceptionsIICs.pdb
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ExceptionsIICs.genruntimeconfig.cache
+D:\Csharp\4.Exceptions\ExceptionsIICs\obj\Debug\net6.0\ref\ExceptionsIICs.dll

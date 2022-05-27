@@ -1,0 +1,15 @@
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\5.POOVCs.csproj.AssemblyReference.cache
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\5.POOVCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\5.POOVCs.AssemblyInfoInputs.cache
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\5.POOVCs.AssemblyInfo.cs
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\5.POOVCs.csproj.CoreCompileInputs.cache
+D:\Csharp\0.POO_master\5.POOVCs\bin\Debug\net6.0\5.POOVCs.exe
+D:\Csharp\0.POO_master\5.POOVCs\bin\Debug\net6.0\5.POOVCs.deps.json
+D:\Csharp\0.POO_master\5.POOVCs\bin\Debug\net6.0\5.POOVCs.runtimeconfig.json
+D:\Csharp\0.POO_master\5.POOVCs\bin\Debug\net6.0\5.POOVCs.dll
+D:\Csharp\0.POO_master\5.POOVCs\bin\Debug\net6.0\5.POOVCs.pdb
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\5.POOVCs.dll
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\refint\5.POOVCs.dll
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\5.POOVCs.pdb
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\5.POOVCs.genruntimeconfig.cache
+D:\Csharp\0.POO_master\5.POOVCs\obj\Debug\net6.0\ref\5.POOVCs.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Csharp\\MetodosCs\\MetodosCs.csproj",
+      "projectUniqueName": "D:\\Csharp\\2.Methods\\MetodosCs\\MetodosCs.csproj",
       "projectName": "MetodosCs",
-      "projectPath": "D:\\Csharp\\MetodosCs\\MetodosCs.csproj",
+      "projectPath": "D:\\Csharp\\2.Methods\\MetodosCs\\MetodosCs.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Csharp\\MetodosCs\\obj\\",
+      "outputPath": "D:\\Csharp\\2.Methods\\MetodosCs\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

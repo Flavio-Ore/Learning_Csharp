@@ -1,0 +1,15 @@
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\3.POOIIICs.csproj.AssemblyReference.cache
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\3.POOIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\3.POOIIICs.AssemblyInfoInputs.cache
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\3.POOIIICs.AssemblyInfo.cs
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\3.POOIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\0.POO_master\3.POOIIICs\bin\Debug\net6.0\3.POOIIICs.exe
+D:\Csharp\0.POO_master\3.POOIIICs\bin\Debug\net6.0\3.POOIIICs.deps.json
+D:\Csharp\0.POO_master\3.POOIIICs\bin\Debug\net6.0\3.POOIIICs.runtimeconfig.json
+D:\Csharp\0.POO_master\3.POOIIICs\bin\Debug\net6.0\3.POOIIICs.dll
+D:\Csharp\0.POO_master\3.POOIIICs\bin\Debug\net6.0\3.POOIIICs.pdb
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\3.POOIIICs.dll
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\refint\3.POOIIICs.dll
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\3.POOIIICs.pdb
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\3.POOIIICs.genruntimeconfig.cache
+D:\Csharp\0.POO_master\3.POOIIICs\obj\Debug\net6.0\ref\3.POOIIICs.dll

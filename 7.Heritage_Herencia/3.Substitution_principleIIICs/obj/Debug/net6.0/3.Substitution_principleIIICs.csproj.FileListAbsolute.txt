@@ -1,0 +1,15 @@
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\bin\Debug\net6.0\3.Substitution_principleIIICs.exe
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\bin\Debug\net6.0\3.Substitution_principleIIICs.deps.json
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\bin\Debug\net6.0\3.Substitution_principleIIICs.runtimeconfig.json
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\bin\Debug\net6.0\3.Substitution_principleIIICs.dll
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\bin\Debug\net6.0\3.Substitution_principleIIICs.pdb
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\3.Substitution_principleIIICs.csproj.AssemblyReference.cache
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\3.Substitution_principleIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\3.Substitution_principleIIICs.AssemblyInfoInputs.cache
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\3.Substitution_principleIIICs.AssemblyInfo.cs
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\3.Substitution_principleIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\3.Substitution_principleIIICs.dll
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\refint\3.Substitution_principleIIICs.dll
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\3.Substitution_principleIIICs.pdb
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\3.Substitution_principleIIICs.genruntimeconfig.cache
+D:\Csharp\7.Heritage_Herencia\3.Substitution_principleIIICs\obj\Debug\net6.0\ref\3.Substitution_principleIIICs.dll

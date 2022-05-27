@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\MetodosCsII\\MetodosCsII.csproj": {}
+    "D:\\Csharp\\2.Methods\\MetodosCsII\\MetodosCsII.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\MetodosCsII\\MetodosCsII.csproj": {
+    "D:\\Csharp\\2.Methods\\MetodosCsII\\MetodosCsII.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\MetodosCsII\\MetodosCsII.csproj",
+        "projectUniqueName": "D:\\Csharp\\2.Methods\\MetodosCsII\\MetodosCsII.csproj",
         "projectName": "MetodosCsII",
-        "projectPath": "D:\\Csharp\\MetodosCsII\\MetodosCsII.csproj",
+        "projectPath": "D:\\Csharp\\2.Methods\\MetodosCsII\\MetodosCsII.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\MetodosCsII\\obj\\",
+        "outputPath": "D:\\Csharp\\2.Methods\\MetodosCsII\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

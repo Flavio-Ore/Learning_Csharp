@@ -1,0 +1,15 @@
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\2.Builders_BaseIICs.csproj.AssemblyReference.cache
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\2.Builders_BaseIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\2.Builders_BaseIICs.AssemblyInfoInputs.cache
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\2.Builders_BaseIICs.AssemblyInfo.cs
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\2.Builders_BaseIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\bin\Debug\net6.0\2.Builders_BaseIICs.exe
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\bin\Debug\net6.0\2.Builders_BaseIICs.deps.json
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\bin\Debug\net6.0\2.Builders_BaseIICs.runtimeconfig.json
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\bin\Debug\net6.0\2.Builders_BaseIICs.dll
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\bin\Debug\net6.0\2.Builders_BaseIICs.pdb
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\2.Builders_BaseIICs.dll
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\refint\2.Builders_BaseIICs.dll
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\2.Builders_BaseIICs.pdb
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\2.Builders_BaseIICs.genruntimeconfig.cache
+D:\Csharp\7.Heritage_Herencia\2.Builders_BaseIICs\obj\Debug\net6.0\ref\2.Builders_BaseIICs.dll

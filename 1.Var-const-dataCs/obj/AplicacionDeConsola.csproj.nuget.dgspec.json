@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\AplicacionDeConsola\\AplicacionDeConsola.csproj": {}
+    "D:\\Csharp\\1.Var-const-dataCs\\AplicacionDeConsola.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\AplicacionDeConsola\\AplicacionDeConsola.csproj": {
+    "D:\\Csharp\\1.Var-const-dataCs\\AplicacionDeConsola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\AplicacionDeConsola\\AplicacionDeConsola.csproj",
+        "projectUniqueName": "D:\\Csharp\\1.Var-const-dataCs\\AplicacionDeConsola.csproj",
         "projectName": "AplicacionDeConsola",
-        "projectPath": "D:\\Csharp\\AplicacionDeConsola\\AplicacionDeConsola.csproj",
+        "projectPath": "D:\\Csharp\\1.Var-const-dataCs\\AplicacionDeConsola.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\AplicacionDeConsola\\obj\\",
+        "outputPath": "D:\\Csharp\\1.Var-const-dataCs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

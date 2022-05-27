@@ -13,3 +13,11 @@ D:\Csharp\AplicacionDeConsola\obj\Debug\net6.0\refint\AplicacionDeConsola.dll
 D:\Csharp\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.pdb
 D:\Csharp\AplicacionDeConsola\obj\Debug\net6.0\AplicacionDeConsola.genruntimeconfig.cache
 D:\Csharp\AplicacionDeConsola\obj\Debug\net6.0\ref\AplicacionDeConsola.dll
+D:\Csharp\1.Var-const-dataCs\obj\Debug\net6.0\AplicacionDeConsola.csproj.AssemblyReference.cache
+D:\Csharp\1.Var-const-dataCs\obj\Debug\net6.0\AplicacionDeConsola.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\1.Var-const-dataCs\obj\Debug\net6.0\AplicacionDeConsola.AssemblyInfoInputs.cache
+D:\Csharp\1.Var-const-dataCs\obj\Debug\net6.0\AplicacionDeConsola.AssemblyInfo.cs
+D:\Csharp\1.Var-const-dataCs\obj\Debug\net6.0\AplicacionDeConsola.csproj.CoreCompileInputs.cache
+D:\Csharp\1.Var-const-dataCs\obj\Debug\net6.0\AplicacionDeConsola.dll
+D:\Csharp\1.Var-const-dataCs\obj\Debug\net6.0\refint\AplicacionDeConsola.dll
+D:\Csharp\1.Var-const-dataCs\obj\Debug\net6.0\AplicacionDeConsola.pdb

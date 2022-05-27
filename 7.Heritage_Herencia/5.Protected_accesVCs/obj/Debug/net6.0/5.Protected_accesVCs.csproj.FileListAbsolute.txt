@@ -1,0 +1,15 @@
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\bin\Debug\net6.0\5.Protected_accesVCs.exe
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\bin\Debug\net6.0\5.Protected_accesVCs.deps.json
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\bin\Debug\net6.0\5.Protected_accesVCs.runtimeconfig.json
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\bin\Debug\net6.0\5.Protected_accesVCs.dll
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\bin\Debug\net6.0\5.Protected_accesVCs.pdb
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\5.Protected_accesVCs.csproj.AssemblyReference.cache
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\5.Protected_accesVCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\5.Protected_accesVCs.AssemblyInfoInputs.cache
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\5.Protected_accesVCs.AssemblyInfo.cs
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\5.Protected_accesVCs.csproj.CoreCompileInputs.cache
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\5.Protected_accesVCs.dll
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\refint\5.Protected_accesVCs.dll
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\5.Protected_accesVCs.pdb
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\5.Protected_accesVCs.genruntimeconfig.cache
+D:\Csharp\7.Heritage_Herencia\5.Protected_accesVCs\obj\Debug\net6.0\ref\5.Protected_accesVCs.dll

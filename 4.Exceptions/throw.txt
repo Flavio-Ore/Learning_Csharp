@@ -1,0 +1,19 @@
+INICIO DEL CONTENIDO DEL ARCHIVO THROW.TXT
+try-catch-finally
+
+ejemplo_para_el_finally-catch-try
+
+Si el programa falla en alguna parte del código del bloque
+try no se ejecutrará
+
+Si necesitamos un código que necesitamos que se ejecute 
+siempre, usamos finally, ya que en try o catch se puede
+ignorar parte del código
+
+EL FINALLY SE USA EN BBDD Y LECTURA DE FICHEROS EXTERNOS
+
+Se utiliza siempre que necesitemos liberar recursos para BBDD
+
+Cuando leemos ficheros se crea un canal de conexión
+FIN DEL CONTENIDO DEL ARCHIVO THROW.TXT
+  

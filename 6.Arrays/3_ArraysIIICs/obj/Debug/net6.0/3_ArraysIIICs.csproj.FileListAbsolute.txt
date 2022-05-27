@@ -1,0 +1,15 @@
+D:\Csharp\6.Arrays\3_ArraysIIICs\bin\Debug\net6.0\3_ArraysIIICs.exe
+D:\Csharp\6.Arrays\3_ArraysIIICs\bin\Debug\net6.0\3_ArraysIIICs.deps.json
+D:\Csharp\6.Arrays\3_ArraysIIICs\bin\Debug\net6.0\3_ArraysIIICs.runtimeconfig.json
+D:\Csharp\6.Arrays\3_ArraysIIICs\bin\Debug\net6.0\3_ArraysIIICs.dll
+D:\Csharp\6.Arrays\3_ArraysIIICs\bin\Debug\net6.0\3_ArraysIIICs.pdb
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\3_ArraysIIICs.csproj.AssemblyReference.cache
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\3_ArraysIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\3_ArraysIIICs.AssemblyInfoInputs.cache
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\3_ArraysIIICs.AssemblyInfo.cs
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\3_ArraysIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\3_ArraysIIICs.dll
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\refint\3_ArraysIIICs.dll
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\3_ArraysIIICs.pdb
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\3_ArraysIIICs.genruntimeconfig.cache
+D:\Csharp\6.Arrays\3_ArraysIIICs\obj\Debug\net6.0\ref\3_ArraysIIICs.dll

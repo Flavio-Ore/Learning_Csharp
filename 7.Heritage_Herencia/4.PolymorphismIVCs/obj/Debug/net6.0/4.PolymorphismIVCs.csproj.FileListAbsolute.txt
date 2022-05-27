@@ -1,0 +1,15 @@
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\bin\Debug\net6.0\4.PolymorphismIVCs.exe
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\bin\Debug\net6.0\4.PolymorphismIVCs.deps.json
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\bin\Debug\net6.0\4.PolymorphismIVCs.runtimeconfig.json
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\bin\Debug\net6.0\4.PolymorphismIVCs.dll
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\bin\Debug\net6.0\4.PolymorphismIVCs.pdb
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\4.PolymorphismIVCs.csproj.AssemblyReference.cache
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\4.PolymorphismIVCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\4.PolymorphismIVCs.AssemblyInfoInputs.cache
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\4.PolymorphismIVCs.AssemblyInfo.cs
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\4.PolymorphismIVCs.csproj.CoreCompileInputs.cache
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\4.PolymorphismIVCs.dll
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\refint\4.PolymorphismIVCs.dll
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\4.PolymorphismIVCs.pdb
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\4.PolymorphismIVCs.genruntimeconfig.cache
+D:\Csharp\7.Heritage_Herencia\4.PolymorphismIVCs\obj\Debug\net6.0\ref\4.PolymorphismIVCs.dll

@@ -1,4 +1,4 @@
-/*
+﻿/*
 .NET 5 :
 using System;
 
@@ -21,12 +21,12 @@ Console.WriteLine("Hello");
 Console.WriteLine("What's your name?");
 
 var name = Console.ReadLine();
-//var name = "default name";
+var name = "default name";
 var currentDate = DateTime.Now;
 
 Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
-//Console.WriteLine($"{Environment.NewLine}Press any key to exit.");
-//Console.ReadKey(true);
+Console.WriteLine($"{Environment.NewLine}Press any key to exit.");
+Console.ReadKey(true);
 
 //!=============================================================================
 
@@ -109,13 +109,13 @@ Console.WriteLine(soyMasImplicito);
 //& string to a number
 
 //~ EXCEPTIONS ↓
-// Console.WriteLine("Introduce el primer valor numérico");
-// int num1 = int.Parse(Console.ReadLine());//error: puede recibir simbolos no numericos
+Console.WriteLine("Introduce el primer valor numérico");
+int num1 = int.Parse(Console.ReadLine());//error: puede recibir simbolos no numericos
 
-// Console.WriteLine("Introduce el segundo valor numérico");
-// int num2 = int.Parse(Console.ReadLine()); //error: puede recibir simbolos no numericos
+Console.WriteLine("Introduce el segundo valor numérico");
+int num2 = int.Parse(Console.ReadLine()); //error: puede recibir simbolos no numericos
 
-// Console.WriteLine($"La suma de ambos valores es: {num1 + num2}");
+Console.WriteLine($"La suma de ambos valores es: {num1 + num2}");
 //~ EXCEPTIONS ↑
 
 string numString1 = "12";

@@ -1,0 +1,15 @@
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ExceptionsIIICs.csproj.AssemblyReference.cache
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ExceptionsIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ExceptionsIIICs.AssemblyInfoInputs.cache
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ExceptionsIIICs.AssemblyInfo.cs
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ExceptionsIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\4.Exceptions\ExceptionsIIICs\bin\Debug\net6.0\ExceptionsIIICs.exe
+D:\Csharp\4.Exceptions\ExceptionsIIICs\bin\Debug\net6.0\ExceptionsIIICs.deps.json
+D:\Csharp\4.Exceptions\ExceptionsIIICs\bin\Debug\net6.0\ExceptionsIIICs.runtimeconfig.json
+D:\Csharp\4.Exceptions\ExceptionsIIICs\bin\Debug\net6.0\ExceptionsIIICs.dll
+D:\Csharp\4.Exceptions\ExceptionsIIICs\bin\Debug\net6.0\ExceptionsIIICs.pdb
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ExceptionsIIICs.dll
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\refint\ExceptionsIIICs.dll
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ExceptionsIIICs.pdb
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ExceptionsIIICs.genruntimeconfig.cache
+D:\Csharp\4.Exceptions\ExceptionsIIICs\obj\Debug\net6.0\ref\ExceptionsIIICs.dll
