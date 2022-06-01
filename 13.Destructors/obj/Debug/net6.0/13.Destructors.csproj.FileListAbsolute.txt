@@ -1,0 +1,15 @@
+D:\Csharp\13.Destructors\bin\Debug\net6.0\13.Destructors.exe
+D:\Csharp\13.Destructors\bin\Debug\net6.0\13.Destructors.deps.json
+D:\Csharp\13.Destructors\bin\Debug\net6.0\13.Destructors.runtimeconfig.json
+D:\Csharp\13.Destructors\bin\Debug\net6.0\13.Destructors.dll
+D:\Csharp\13.Destructors\bin\Debug\net6.0\13.Destructors.pdb
+D:\Csharp\13.Destructors\obj\Debug\net6.0\13.Destructors.csproj.AssemblyReference.cache
+D:\Csharp\13.Destructors\obj\Debug\net6.0\13.Destructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\13.Destructors\obj\Debug\net6.0\13.Destructors.AssemblyInfoInputs.cache
+D:\Csharp\13.Destructors\obj\Debug\net6.0\13.Destructors.AssemblyInfo.cs
+D:\Csharp\13.Destructors\obj\Debug\net6.0\13.Destructors.csproj.CoreCompileInputs.cache
+D:\Csharp\13.Destructors\obj\Debug\net6.0\13.Destructors.dll
+D:\Csharp\13.Destructors\obj\Debug\net6.0\refint\13.Destructors.dll
+D:\Csharp\13.Destructors\obj\Debug\net6.0\13.Destructors.pdb
+D:\Csharp\13.Destructors\obj\Debug\net6.0\13.Destructors.genruntimeconfig.cache
+D:\Csharp\13.Destructors\obj\Debug\net6.0\ref\13.Destructors.dll

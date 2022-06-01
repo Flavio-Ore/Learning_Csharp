@@ -1,0 +1,15 @@
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\bin\Debug\net6.0\1.AbstractICs.exe
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\bin\Debug\net6.0\1.AbstractICs.deps.json
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\bin\Debug\net6.0\1.AbstractICs.runtimeconfig.json
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\bin\Debug\net6.0\1.AbstractICs.dll
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\bin\Debug\net6.0\1.AbstractICs.pdb
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\1.AbstractICs.csproj.AssemblyReference.cache
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\1.AbstractICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\1.AbstractICs.AssemblyInfoInputs.cache
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\1.AbstractICs.AssemblyInfo.cs
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\1.AbstractICs.csproj.CoreCompileInputs.cache
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\1.AbstractICs.dll
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\refint\1.AbstractICs.dll
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\1.AbstractICs.pdb
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\1.AbstractICs.genruntimeconfig.cache
+D:\Csharp\9.Abstract_Classes\1.AbstractICs\obj\Debug\net6.0\ref\1.AbstractICs.dll

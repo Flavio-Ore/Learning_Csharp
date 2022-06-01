@@ -1,0 +1,15 @@
+D:\Csharp\11.Structs\bin\Debug\net6.0\11.Structs.exe
+D:\Csharp\11.Structs\bin\Debug\net6.0\11.Structs.deps.json
+D:\Csharp\11.Structs\bin\Debug\net6.0\11.Structs.runtimeconfig.json
+D:\Csharp\11.Structs\bin\Debug\net6.0\11.Structs.dll
+D:\Csharp\11.Structs\bin\Debug\net6.0\11.Structs.pdb
+D:\Csharp\11.Structs\obj\Debug\net6.0\11.Structs.csproj.AssemblyReference.cache
+D:\Csharp\11.Structs\obj\Debug\net6.0\11.Structs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\11.Structs\obj\Debug\net6.0\11.Structs.AssemblyInfoInputs.cache
+D:\Csharp\11.Structs\obj\Debug\net6.0\11.Structs.AssemblyInfo.cs
+D:\Csharp\11.Structs\obj\Debug\net6.0\11.Structs.csproj.CoreCompileInputs.cache
+D:\Csharp\11.Structs\obj\Debug\net6.0\11.Structs.dll
+D:\Csharp\11.Structs\obj\Debug\net6.0\refint\11.Structs.dll
+D:\Csharp\11.Structs\obj\Debug\net6.0\11.Structs.pdb
+D:\Csharp\11.Structs\obj\Debug\net6.0\11.Structs.genruntimeconfig.cache
+D:\Csharp\11.Structs\obj\Debug\net6.0\ref\11.Structs.dll

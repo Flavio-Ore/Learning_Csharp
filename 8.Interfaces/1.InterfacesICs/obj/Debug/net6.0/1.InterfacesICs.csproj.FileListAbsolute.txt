@@ -1,0 +1,15 @@
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\1.InterfacesICs.csproj.AssemblyReference.cache
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\1.InterfacesICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\1.InterfacesICs.AssemblyInfoInputs.cache
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\1.InterfacesICs.AssemblyInfo.cs
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\1.InterfacesICs.csproj.CoreCompileInputs.cache
+D:\Csharp\8.Interfaces\1.InterfacesICs\bin\Debug\net6.0\1.InterfacesICs.exe
+D:\Csharp\8.Interfaces\1.InterfacesICs\bin\Debug\net6.0\1.InterfacesICs.deps.json
+D:\Csharp\8.Interfaces\1.InterfacesICs\bin\Debug\net6.0\1.InterfacesICs.runtimeconfig.json
+D:\Csharp\8.Interfaces\1.InterfacesICs\bin\Debug\net6.0\1.InterfacesICs.dll
+D:\Csharp\8.Interfaces\1.InterfacesICs\bin\Debug\net6.0\1.InterfacesICs.pdb
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\1.InterfacesICs.dll
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\refint\1.InterfacesICs.dll
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\1.InterfacesICs.pdb
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\1.InterfacesICs.genruntimeconfig.cache
+D:\Csharp\8.Interfaces\1.InterfacesICs\obj\Debug\net6.0\ref\1.InterfacesICs.dll
