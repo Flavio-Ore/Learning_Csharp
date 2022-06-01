@@ -1,0 +1,15 @@
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\bin\Debug\net6.0\3.EgInterfacesIIICs.exe
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\bin\Debug\net6.0\3.EgInterfacesIIICs.deps.json
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\bin\Debug\net6.0\3.EgInterfacesIIICs.runtimeconfig.json
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\bin\Debug\net6.0\3.EgInterfacesIIICs.dll
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\bin\Debug\net6.0\3.EgInterfacesIIICs.pdb
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\3.EgInterfacesIIICs.csproj.AssemblyReference.cache
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\3.EgInterfacesIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\3.EgInterfacesIIICs.AssemblyInfoInputs.cache
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\3.EgInterfacesIIICs.AssemblyInfo.cs
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\3.EgInterfacesIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\3.EgInterfacesIIICs.dll
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\refint\3.EgInterfacesIIICs.dll
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\3.EgInterfacesIIICs.pdb
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\3.EgInterfacesIIICs.genruntimeconfig.cache
+D:\Csharp\8.Interfaces\3.EgInterfacesIIICs\obj\Debug\net6.0\ref\3.EgInterfacesIIICs.dll

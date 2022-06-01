@@ -1,0 +1,15 @@
+D:\Csharp\10.Properties_get_set\bin\Debug\net6.0\10.Properties_get_set.exe
+D:\Csharp\10.Properties_get_set\bin\Debug\net6.0\10.Properties_get_set.deps.json
+D:\Csharp\10.Properties_get_set\bin\Debug\net6.0\10.Properties_get_set.runtimeconfig.json
+D:\Csharp\10.Properties_get_set\bin\Debug\net6.0\10.Properties_get_set.dll
+D:\Csharp\10.Properties_get_set\bin\Debug\net6.0\10.Properties_get_set.pdb
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\10.Properties_get_set.csproj.AssemblyReference.cache
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\10.Properties_get_set.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\10.Properties_get_set.AssemblyInfoInputs.cache
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\10.Properties_get_set.AssemblyInfo.cs
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\10.Properties_get_set.csproj.CoreCompileInputs.cache
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\10.Properties_get_set.dll
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\refint\10.Properties_get_set.dll
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\10.Properties_get_set.pdb
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\10.Properties_get_set.genruntimeconfig.cache
+D:\Csharp\10.Properties_get_set\obj\Debug\net6.0\ref\10.Properties_get_set.dll
