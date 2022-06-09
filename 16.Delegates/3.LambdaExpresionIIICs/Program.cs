@@ -5,6 +5,7 @@ namespace LambdaExpresionIIICs
 {
   class Program
   {
+    //^Programación funcional
     //^Lambda Expresions (funciones anónimas)
 
     //^ Parámetros => expresión/bloque de sentencia
@@ -57,9 +58,41 @@ namespace LambdaExpresionIIICs
       Persona p1 = new Persona();
       p1.Nombre = "Gon";
       p1.Age = 12;
+
+      Persona p2 = new Persona();
+      p2.Nombre = "Fla";
+      p2.Age = 18;
+
+      Persona p3 = new Persona();
+      p3.Nombre = "Igual";
+      p2.Age = 10;
+
+      Persona p4 = new Persona();
+      p4.Nombre = "Igual";
+      p2.Age = 10;
+
+    //Ages-Int-----------------------------------------------------------------
+
+      CompareAge comparingAge = (person1, person2) => person1 == person2;
+
+      Console.WriteLine($"\n{comparingAge(p1.Age, p2.Age)}");
+
+      Console.WriteLine(comparingAge(p3.Age, p4.Age));
+
+    //Names-str-----------------------------------------------------------------
+
+      CompareName comparingName = (person1, person2) => person1 == person2;
+
+      Console.WriteLine(comparingName(p1.Nombre, p2.Nombre));
       
-        
+      Console.WriteLine(comparingName(p3.Nombre, p4.Nombre));
+      
+      
     }
+    public delegate bool CompareName(string name1, string name2);
+    public delegate bool CompareAge(int edad1, int edad2);
+
+    //--------------------------------------------------------------------------
 
     public delegate int MathOperations(int num1, int num2); //Line 20
     static int ToSqr(int x, int y) => x*y; //x^2 | Line 20/22
@@ -76,16 +109,13 @@ namespace LambdaExpresionIIICs
       set
       {
         if (value < 0)
-        {
           _int = 0;
-        }
         else
-        {
           _int = value;
-        }
       }
-    }
-    
-    
+    }    
   }
 }
+
+
+

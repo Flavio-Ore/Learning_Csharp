@@ -1,5 +1,8 @@
 ﻿using System;
+<<<<<<< HEAD
 using AbstractICs.Models;
+=======
+>>>>>>> 08e6a22c1a416bbcbb2d7fa4faf5c54bf12ecb6d
 namespace AbstractICs
 {
   //^Abstract classes
