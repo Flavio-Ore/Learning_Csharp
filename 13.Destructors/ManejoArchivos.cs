@@ -1,13 +1,13 @@
 using System;
-using System.Reflection.PortableExecutable;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using System.IO;
+using System.Linq;
+using System.Collections.Generic;
+using System.Threading.Tasks;
+using System.Reflection.PortableExecutable;
 
 namespace Destructors
 {
-    //un flujo de datos, stream
+    //^un flujo de datos, stream
     public class ManejoArchivos
     {
         //fields
@@ -18,23 +18,20 @@ namespace Destructors
         //constructor
         public ManejoArchivos()
         {
-            archivo = new StreamReader(@"C:\text_to_read_DestructorsCsharp");
+            archivo = new StreamReader(@"D:\Csharp\13.Destructors\text\public\anotherText.txt");
             while((linea = archivo.ReadLine()) != null)
             {
                 Console.WriteLine(linea);
                 contador++;
             }
         }
-
+        
         //method
-        public void Mensaje()
-        {
-            Console.WriteLine($"Hay {contador} líneas.");
-        }
+        public void Mensaje() => Console.WriteLine($"Hay {contador} líneas.");
 
         //destructor
         //~ el destructor debe tener el mismo nombre de la clase
-        ~ManejoArchivos() 
+        ~ManejoArchivos()
         {
             //el código que se ejecute cuando el garbage collection está eliminando ese recurso
             //Close() para cerrar la conexión.

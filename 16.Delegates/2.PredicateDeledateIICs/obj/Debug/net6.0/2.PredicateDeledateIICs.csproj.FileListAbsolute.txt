@@ -1,0 +1,15 @@
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\bin\Debug\net6.0\2.PredicateDeledateIICs.exe
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\bin\Debug\net6.0\2.PredicateDeledateIICs.deps.json
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\bin\Debug\net6.0\2.PredicateDeledateIICs.runtimeconfig.json
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\bin\Debug\net6.0\2.PredicateDeledateIICs.dll
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\bin\Debug\net6.0\2.PredicateDeledateIICs.pdb
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\2.PredicateDeledateIICs.csproj.AssemblyReference.cache
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\2.PredicateDeledateIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\2.PredicateDeledateIICs.AssemblyInfoInputs.cache
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\2.PredicateDeledateIICs.AssemblyInfo.cs
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\2.PredicateDeledateIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\2.PredicateDeledateIICs.dll
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\refint\2.PredicateDeledateIICs.dll
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\2.PredicateDeledateIICs.pdb
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\2.PredicateDeledateIICs.genruntimeconfig.cache
+D:\Csharp\16.Delegates\2.PredicateDeledateIICs\obj\Debug\net6.0\ref\2.PredicateDeledateIICs.dll

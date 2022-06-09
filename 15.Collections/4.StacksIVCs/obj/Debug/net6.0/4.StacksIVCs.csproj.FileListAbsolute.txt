@@ -1,0 +1,15 @@
+D:\Csharp\15.Collections\4.StacksIVCs\bin\Debug\net6.0\4.StacksIVCs.exe
+D:\Csharp\15.Collections\4.StacksIVCs\bin\Debug\net6.0\4.StacksIVCs.deps.json
+D:\Csharp\15.Collections\4.StacksIVCs\bin\Debug\net6.0\4.StacksIVCs.runtimeconfig.json
+D:\Csharp\15.Collections\4.StacksIVCs\bin\Debug\net6.0\4.StacksIVCs.dll
+D:\Csharp\15.Collections\4.StacksIVCs\bin\Debug\net6.0\4.StacksIVCs.pdb
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\4.StacksIVCs.csproj.AssemblyReference.cache
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\4.StacksIVCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\4.StacksIVCs.AssemblyInfoInputs.cache
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\4.StacksIVCs.AssemblyInfo.cs
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\4.StacksIVCs.csproj.CoreCompileInputs.cache
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\4.StacksIVCs.dll
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\refint\4.StacksIVCs.dll
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\4.StacksIVCs.pdb
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\4.StacksIVCs.genruntimeconfig.cache
+D:\Csharp\15.Collections\4.StacksIVCs\obj\Debug\net6.0\ref\4.StacksIVCs.dll

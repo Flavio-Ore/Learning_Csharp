@@ -5,7 +5,6 @@ namespace Visual_Studio_POO //mismo namespace
 {
   class Program 
   {
-
     static void Main(string[] args)
     {
       RealizarTarea();
@@ -20,8 +19,6 @@ namespace Visual_Studio_POO //mismo namespace
 
       Punto origenTres = new Punto(4,5,5);
     }
-
   }
-
 
 }

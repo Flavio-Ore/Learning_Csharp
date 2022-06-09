@@ -1,0 +1,15 @@
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\2.LinkedListIICs.csproj.AssemblyReference.cache
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\2.LinkedListIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\2.LinkedListIICs.AssemblyInfoInputs.cache
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\2.LinkedListIICs.AssemblyInfo.cs
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\2.LinkedListIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\15.Collections\2.LinkedListIICs\bin\Debug\net6.0\2.LinkedListIICs.exe
+D:\Csharp\15.Collections\2.LinkedListIICs\bin\Debug\net6.0\2.LinkedListIICs.deps.json
+D:\Csharp\15.Collections\2.LinkedListIICs\bin\Debug\net6.0\2.LinkedListIICs.runtimeconfig.json
+D:\Csharp\15.Collections\2.LinkedListIICs\bin\Debug\net6.0\2.LinkedListIICs.dll
+D:\Csharp\15.Collections\2.LinkedListIICs\bin\Debug\net6.0\2.LinkedListIICs.pdb
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\2.LinkedListIICs.dll
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\refint\2.LinkedListIICs.dll
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\2.LinkedListIICs.pdb
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\2.LinkedListIICs.genruntimeconfig.cache
+D:\Csharp\15.Collections\2.LinkedListIICs\obj\Debug\net6.0\ref\2.LinkedListIICs.dll

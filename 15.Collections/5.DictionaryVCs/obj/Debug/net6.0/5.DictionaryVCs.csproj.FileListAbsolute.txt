@@ -1,0 +1,15 @@
+D:\Csharp\15.Collections\5.DictionaryVCs\bin\Debug\net6.0\5.DictionaryVCs.exe
+D:\Csharp\15.Collections\5.DictionaryVCs\bin\Debug\net6.0\5.DictionaryVCs.deps.json
+D:\Csharp\15.Collections\5.DictionaryVCs\bin\Debug\net6.0\5.DictionaryVCs.runtimeconfig.json
+D:\Csharp\15.Collections\5.DictionaryVCs\bin\Debug\net6.0\5.DictionaryVCs.dll
+D:\Csharp\15.Collections\5.DictionaryVCs\bin\Debug\net6.0\5.DictionaryVCs.pdb
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\5.DictionaryVCs.csproj.AssemblyReference.cache
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\5.DictionaryVCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\5.DictionaryVCs.AssemblyInfoInputs.cache
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\5.DictionaryVCs.AssemblyInfo.cs
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\5.DictionaryVCs.csproj.CoreCompileInputs.cache
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\5.DictionaryVCs.dll
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\refint\5.DictionaryVCs.dll
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\5.DictionaryVCs.pdb
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\5.DictionaryVCs.genruntimeconfig.cache
+D:\Csharp\15.Collections\5.DictionaryVCs\obj\Debug\net6.0\ref\5.DictionaryVCs.dll

@@ -26,9 +26,9 @@ class Program
 //! ARRAY de tipos o clases anónimas 
     var personas = new[] //array de tipos anónimos
     { //todos deben ser del mismo tipo
-      new {Nombre = "Gon", Edad = 16}, //objeto en la posicion 0
-      new {Nombre = "Stuart", Edad = 18}, //objeto en la posicion 1
-      new {Nombre = "Jose", Edad = 95}, //objeto en la posicion 2
+      new {Nombr = "Gon",    Edad = 16}, //objeto en la posicion 0
+      new {Nombr = "Stuart", Edad = 18}, //objeto en la posicion 1
+      new {Nombr = "Jose",   Edad = 95}, //objeto en la posicion 2
     };
     Console.WriteLine(personas[0]);
     

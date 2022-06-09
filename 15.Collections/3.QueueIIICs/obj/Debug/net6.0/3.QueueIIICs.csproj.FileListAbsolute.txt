@@ -1,0 +1,15 @@
+D:\Csharp\15.Collections\3.QueueIIICs\bin\Debug\net6.0\3.QueueIIICs.exe
+D:\Csharp\15.Collections\3.QueueIIICs\bin\Debug\net6.0\3.QueueIIICs.deps.json
+D:\Csharp\15.Collections\3.QueueIIICs\bin\Debug\net6.0\3.QueueIIICs.runtimeconfig.json
+D:\Csharp\15.Collections\3.QueueIIICs\bin\Debug\net6.0\3.QueueIIICs.dll
+D:\Csharp\15.Collections\3.QueueIIICs\bin\Debug\net6.0\3.QueueIIICs.pdb
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\3.QueueIIICs.csproj.AssemblyReference.cache
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\3.QueueIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\3.QueueIIICs.AssemblyInfoInputs.cache
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\3.QueueIIICs.AssemblyInfo.cs
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\3.QueueIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\3.QueueIIICs.dll
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\refint\3.QueueIIICs.dll
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\3.QueueIIICs.pdb
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\3.QueueIIICs.genruntimeconfig.cache
+D:\Csharp\15.Collections\3.QueueIIICs\obj\Debug\net6.0\ref\3.QueueIIICs.dll

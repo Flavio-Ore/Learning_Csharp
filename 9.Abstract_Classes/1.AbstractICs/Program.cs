@@ -1,4 +1,5 @@
 ﻿using System;
+using AbstractICs.Models;
 namespace AbstractICs
 {
   //^Abstract classes

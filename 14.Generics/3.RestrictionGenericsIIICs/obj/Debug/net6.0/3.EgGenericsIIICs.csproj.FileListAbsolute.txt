@@ -1,0 +1,15 @@
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\bin\Debug\net6.0\3.EgGenericsIIICs.exe
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\bin\Debug\net6.0\3.EgGenericsIIICs.deps.json
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\bin\Debug\net6.0\3.EgGenericsIIICs.runtimeconfig.json
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\bin\Debug\net6.0\3.EgGenericsIIICs.dll
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\bin\Debug\net6.0\3.EgGenericsIIICs.pdb
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\3.EgGenericsIIICs.csproj.AssemblyReference.cache
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\3.EgGenericsIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\3.EgGenericsIIICs.AssemblyInfoInputs.cache
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\3.EgGenericsIIICs.AssemblyInfo.cs
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\3.EgGenericsIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\3.EgGenericsIIICs.dll
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\refint\3.EgGenericsIIICs.dll
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\3.EgGenericsIIICs.pdb
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\3.EgGenericsIIICs.genruntimeconfig.cache
+D:\Csharp\14.Generics\3.RestrictionGenericsIIICs\obj\Debug\net6.0\ref\3.EgGenericsIIICs.dll

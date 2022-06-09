@@ -43,7 +43,8 @@
 //^ Las subclases tienen implícitamente una instrucción que no veiamos que era :base() esta instrucción llama al constructor de la clase padre por defecto
   class Perro : Mamiferos
   {
-    public Perro(string nombrePerro) : base(nombrePerro)
+    public Perro(string nombrePerro):
+      base(nombrePerro)
     {
       //?el dato almacenado e.g. Perro dog = new Perro("Nombre del perro"). Viaja hasta la subclase Perro como parámetro para que luego almacenarse en base y llevarlo al constructor de la clase padre, es decir al parámetro nombre
     }

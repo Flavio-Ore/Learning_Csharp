@@ -1,0 +1,15 @@
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\bin\Debug\net6.0\3.LambdaExpresionIIICs.exe
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\bin\Debug\net6.0\3.LambdaExpresionIIICs.deps.json
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\bin\Debug\net6.0\3.LambdaExpresionIIICs.runtimeconfig.json
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\bin\Debug\net6.0\3.LambdaExpresionIIICs.dll
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\bin\Debug\net6.0\3.LambdaExpresionIIICs.pdb
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\3.LambdaExpresionIIICs.csproj.AssemblyReference.cache
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\3.LambdaExpresionIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\3.LambdaExpresionIIICs.AssemblyInfoInputs.cache
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\3.LambdaExpresionIIICs.AssemblyInfo.cs
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\3.LambdaExpresionIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\3.LambdaExpresionIIICs.dll
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\refint\3.LambdaExpresionIIICs.dll
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\3.LambdaExpresionIIICs.pdb
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\3.LambdaExpresionIIICs.genruntimeconfig.cache
+D:\Csharp\16.Delegates\3.LambdaExpresionIIICs\obj\Debug\net6.0\ref\3.LambdaExpresionIIICs.dll

@@ -1,0 +1,15 @@
+D:\Csharp\16.Delegates\1.DelegatesICs\bin\Debug\net6.0\1.DelegatesICs.exe
+D:\Csharp\16.Delegates\1.DelegatesICs\bin\Debug\net6.0\1.DelegatesICs.deps.json
+D:\Csharp\16.Delegates\1.DelegatesICs\bin\Debug\net6.0\1.DelegatesICs.runtimeconfig.json
+D:\Csharp\16.Delegates\1.DelegatesICs\bin\Debug\net6.0\1.DelegatesICs.dll
+D:\Csharp\16.Delegates\1.DelegatesICs\bin\Debug\net6.0\1.DelegatesICs.pdb
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\1.DelegatesICs.csproj.AssemblyReference.cache
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\1.DelegatesICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\1.DelegatesICs.AssemblyInfoInputs.cache
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\1.DelegatesICs.AssemblyInfo.cs
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\1.DelegatesICs.csproj.CoreCompileInputs.cache
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\1.DelegatesICs.dll
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\refint\1.DelegatesICs.dll
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\1.DelegatesICs.pdb
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\1.DelegatesICs.genruntimeconfig.cache
+D:\Csharp\16.Delegates\1.DelegatesICs\obj\Debug\net6.0\ref\1.DelegatesICs.dll

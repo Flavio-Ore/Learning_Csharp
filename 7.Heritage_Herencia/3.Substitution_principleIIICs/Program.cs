@@ -22,6 +22,12 @@ namespace Substitution_principleIIICs //^Es siempre un...?
     //----------------------------------------------------------------
       //Al usar el principio de substitución
       
+      Perro perro = new Perro("Gon");
+      Mamifero animal = new Mamifero("Rodolfo");
+      animal = perro;
+
+      perro.Ladrar();
+
       //perroMamifero es de tipo Mamifero y no Perro
       Mamifero perroMamifero = new Perro("Perro Mamifero");
       Mamifero caballoMamifero = new Caballo("Caballo que solo tiene clase la infomación de la clase Mamifero");
@@ -32,15 +38,15 @@ namespace Substitution_principleIIICs //^Es siempre un...?
       caballoMamifero.GetAnimalInfo();
 
     //----------------------------------------------------------------
-      //aplicando principio de substitución usando insstancia creadas anteriormente
+      //aplicando principio de substitución usando instancia creadas anteriormente
 
-      Mamifero animal = new Mamifero("Gato");
+      Mamifero animal1 = new Mamifero("Gato");
       Gato egipcio = new Gato("Egipcio");
 
       //un mamífero no siempre es un gato | egipcio = animal; error
 
       //!un Gato es SIEMPRE un mamifero
-      animal = egipcio;
+      animal1 = egipcio;
 
       egipcio.Maullar(); //puede usar el método correspondiente al hijo Gato
       animal.GetAnimalInfo(); //output: Name: Egipcio
@@ -81,14 +87,17 @@ namespace Substitution_principleIIICs //^Es siempre un...?
   {
     //fields
     private string name;
+
     //constructor
     public Mamifero(string name)
     {
       this.name = name;
     }
+
     //methods
     public void CuidarCrias() => Console.WriteLine("Cuido de mis crias hasta que mueran");
     public void Resprirar() => Console.WriteLine("Soy capaz de respirar");
+
     //getters and setters
     //?old get
     public void GetAnimalInfo() => Console.WriteLine($"Name: {name}");
@@ -97,7 +106,7 @@ namespace Substitution_principleIIICs //^Es siempre un...?
   {
     public Perro(string dogName) : base(dogName)
     {
-      //?this.name = dogName;
+      
     }
     public void Ladrar() => Console.WriteLine("Wof,Wof");
   }
