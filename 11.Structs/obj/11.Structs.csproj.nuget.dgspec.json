@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\11.Structs\\11.Structs.csproj": {}
+    "d:\\Csharp\\11.Structs\\11.Structs.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\11.Structs\\11.Structs.csproj": {
+    "d:\\Csharp\\11.Structs\\11.Structs.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\11.Structs\\11.Structs.csproj",
+        "projectUniqueName": "d:\\Csharp\\11.Structs\\11.Structs.csproj",
         "projectName": "11.Structs",
-        "projectPath": "D:\\Csharp\\11.Structs\\11.Structs.csproj",
+        "projectPath": "d:\\Csharp\\11.Structs\\11.Structs.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\11.Structs\\obj\\",
+        "outputPath": "d:\\Csharp\\11.Structs\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

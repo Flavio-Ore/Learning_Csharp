@@ -1,0 +1,15 @@
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\bin\Debug\net6.0\4.Func_ActionIVCs.exe
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\bin\Debug\net6.0\4.Func_ActionIVCs.deps.json
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\bin\Debug\net6.0\4.Func_ActionIVCs.runtimeconfig.json
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\bin\Debug\net6.0\4.Func_ActionIVCs.dll
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\bin\Debug\net6.0\4.Func_ActionIVCs.pdb
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\4.Func_ActionIVCs.csproj.AssemblyReference.cache
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\4.Func_ActionIVCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\4.Func_ActionIVCs.AssemblyInfoInputs.cache
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\4.Func_ActionIVCs.AssemblyInfo.cs
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\4.Func_ActionIVCs.csproj.CoreCompileInputs.cache
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\4.Func_ActionIVCs.dll
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\refint\4.Func_ActionIVCs.dll
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\4.Func_ActionIVCs.pdb
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\4.Func_ActionIVCs.genruntimeconfig.cache
+D:\Csharp\16.Delegates\4.Func_ActionIVCs\obj\Debug\net6.0\ref\4.Func_ActionIVCs.dll

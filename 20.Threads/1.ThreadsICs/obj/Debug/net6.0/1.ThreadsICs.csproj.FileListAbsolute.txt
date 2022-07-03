@@ -1,0 +1,15 @@
+D:\Csharp\20.Threads\1.ThreadsICs\bin\Debug\net6.0\1.ThreadsICs.exe
+D:\Csharp\20.Threads\1.ThreadsICs\bin\Debug\net6.0\1.ThreadsICs.deps.json
+D:\Csharp\20.Threads\1.ThreadsICs\bin\Debug\net6.0\1.ThreadsICs.runtimeconfig.json
+D:\Csharp\20.Threads\1.ThreadsICs\bin\Debug\net6.0\1.ThreadsICs.dll
+D:\Csharp\20.Threads\1.ThreadsICs\bin\Debug\net6.0\1.ThreadsICs.pdb
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\1.ThreadsICs.csproj.AssemblyReference.cache
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\1.ThreadsICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\1.ThreadsICs.AssemblyInfoInputs.cache
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\1.ThreadsICs.AssemblyInfo.cs
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\1.ThreadsICs.csproj.CoreCompileInputs.cache
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\1.ThreadsICs.dll
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\refint\1.ThreadsICs.dll
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\1.ThreadsICs.pdb
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\1.ThreadsICs.genruntimeconfig.cache
+D:\Csharp\20.Threads\1.ThreadsICs\obj\Debug\net6.0\ref\1.ThreadsICs.dll

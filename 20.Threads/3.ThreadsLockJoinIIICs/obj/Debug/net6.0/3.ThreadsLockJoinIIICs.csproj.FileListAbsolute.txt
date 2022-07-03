@@ -1,0 +1,15 @@
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\bin\Debug\net6.0\3.ThreadsLockJoinIIICs.exe
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\bin\Debug\net6.0\3.ThreadsLockJoinIIICs.deps.json
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\bin\Debug\net6.0\3.ThreadsLockJoinIIICs.runtimeconfig.json
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\bin\Debug\net6.0\3.ThreadsLockJoinIIICs.dll
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\bin\Debug\net6.0\3.ThreadsLockJoinIIICs.pdb
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\3.ThreadsLockJoinIIICs.csproj.AssemblyReference.cache
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\3.ThreadsLockJoinIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\3.ThreadsLockJoinIIICs.AssemblyInfoInputs.cache
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\3.ThreadsLockJoinIIICs.AssemblyInfo.cs
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\3.ThreadsLockJoinIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\3.ThreadsLockJoinIIICs.dll
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\refint\3.ThreadsLockJoinIIICs.dll
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\3.ThreadsLockJoinIIICs.pdb
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\3.ThreadsLockJoinIIICs.genruntimeconfig.cache
+D:\Csharp\20.Threads\3.ThreadsLockJoinIIICs\obj\Debug\net6.0\ref\3.ThreadsLockJoinIIICs.dll

@@ -4,6 +4,7 @@ namespace DelegatesICs
   class program
   {
     //^Los delegados son funciones que delegan tareas en otras funciones
+    //!Los delegados son funciones de primer grado
     //^delegate var Name(args); -> var MethodName(args)
     //El jefe delega tareas y a los empleos
     //!Los delegados son apuntadores (* pointers)

@@ -1,0 +1,15 @@
+D:\Csharp\20.Threads\5.ThreadPoolVCs\bin\Debug\net6.0\5.ThreadPoolVCs.exe
+D:\Csharp\20.Threads\5.ThreadPoolVCs\bin\Debug\net6.0\5.ThreadPoolVCs.deps.json
+D:\Csharp\20.Threads\5.ThreadPoolVCs\bin\Debug\net6.0\5.ThreadPoolVCs.runtimeconfig.json
+D:\Csharp\20.Threads\5.ThreadPoolVCs\bin\Debug\net6.0\5.ThreadPoolVCs.dll
+D:\Csharp\20.Threads\5.ThreadPoolVCs\bin\Debug\net6.0\5.ThreadPoolVCs.pdb
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\5.ThreadPoolVCs.csproj.AssemblyReference.cache
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\5.ThreadPoolVCs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\5.ThreadPoolVCs.AssemblyInfoInputs.cache
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\5.ThreadPoolVCs.AssemblyInfo.cs
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\5.ThreadPoolVCs.csproj.CoreCompileInputs.cache
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\5.ThreadPoolVCs.dll
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\refint\5.ThreadPoolVCs.dll
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\5.ThreadPoolVCs.pdb
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\5.ThreadPoolVCs.genruntimeconfig.cache
+D:\Csharp\20.Threads\5.ThreadPoolVCs\obj\Debug\net6.0\ref\5.ThreadPoolVCs.dll

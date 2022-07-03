@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4+wgWW3yTDUUHL5yezTERXxDtNE5U2V+90h1khafdF9qOymNLlLRm6K+vD3bd6eaZZzwQRX7WKSC53Uka/2WPw==",
+  "dgSpecHash": "LqdP9w6iN87s/ogJhDS3HhinomMujthWpx1a6BW+v53m33g5TWeAAzGNYian0YmT5LCjYGeE/zMJzaA2Jddheg==",
   "success": true,
-  "projectFilePath": "D:\\Csharp\\13.Destructors\\13.Destructors.csproj",
+  "projectFilePath": "d:\\Csharp\\13.Destructors\\13.Destructors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

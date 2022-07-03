@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\13.Destructors\\13.Destructors.csproj": {}
+    "d:\\Csharp\\13.Destructors\\13.Destructors.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\13.Destructors\\13.Destructors.csproj": {
+    "d:\\Csharp\\13.Destructors\\13.Destructors.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\13.Destructors\\13.Destructors.csproj",
+        "projectUniqueName": "d:\\Csharp\\13.Destructors\\13.Destructors.csproj",
         "projectName": "13.Destructors",
-        "projectPath": "D:\\Csharp\\13.Destructors\\13.Destructors.csproj",
+        "projectPath": "d:\\Csharp\\13.Destructors\\13.Destructors.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\13.Destructors\\obj\\",
+        "outputPath": "d:\\Csharp\\13.Destructors\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

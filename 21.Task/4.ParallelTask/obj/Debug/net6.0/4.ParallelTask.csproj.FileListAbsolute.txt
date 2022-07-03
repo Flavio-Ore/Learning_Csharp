@@ -1,0 +1,15 @@
+D:\Csharp\21.Task\4.ParallelTask\bin\Debug\net6.0\4.ParallelTask.exe
+D:\Csharp\21.Task\4.ParallelTask\bin\Debug\net6.0\4.ParallelTask.deps.json
+D:\Csharp\21.Task\4.ParallelTask\bin\Debug\net6.0\4.ParallelTask.runtimeconfig.json
+D:\Csharp\21.Task\4.ParallelTask\bin\Debug\net6.0\4.ParallelTask.dll
+D:\Csharp\21.Task\4.ParallelTask\bin\Debug\net6.0\4.ParallelTask.pdb
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\4.ParallelTask.csproj.AssemblyReference.cache
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\4.ParallelTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\4.ParallelTask.AssemblyInfoInputs.cache
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\4.ParallelTask.AssemblyInfo.cs
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\4.ParallelTask.csproj.CoreCompileInputs.cache
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\4.ParallelTask.dll
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\refint\4.ParallelTask.dll
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\4.ParallelTask.pdb
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\4.ParallelTask.genruntimeconfig.cache
+D:\Csharp\21.Task\4.ParallelTask\obj\Debug\net6.0\ref\4.ParallelTask.dll

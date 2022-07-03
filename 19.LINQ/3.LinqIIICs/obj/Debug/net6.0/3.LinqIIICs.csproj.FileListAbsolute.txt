@@ -1,0 +1,15 @@
+D:\Csharp\19.LINQ\3.LinqIIICs\bin\Debug\net6.0\3.LinqIIICs.exe
+D:\Csharp\19.LINQ\3.LinqIIICs\bin\Debug\net6.0\3.LinqIIICs.deps.json
+D:\Csharp\19.LINQ\3.LinqIIICs\bin\Debug\net6.0\3.LinqIIICs.runtimeconfig.json
+D:\Csharp\19.LINQ\3.LinqIIICs\bin\Debug\net6.0\3.LinqIIICs.dll
+D:\Csharp\19.LINQ\3.LinqIIICs\bin\Debug\net6.0\3.LinqIIICs.pdb
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\3.LinqIIICs.csproj.AssemblyReference.cache
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\3.LinqIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\3.LinqIIICs.AssemblyInfoInputs.cache
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\3.LinqIIICs.AssemblyInfo.cs
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\3.LinqIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\3.LinqIIICs.dll
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\refint\3.LinqIIICs.dll
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\3.LinqIIICs.pdb
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\3.LinqIIICs.genruntimeconfig.cache
+D:\Csharp\19.LINQ\3.LinqIIICs\obj\Debug\net6.0\ref\3.LinqIIICs.dll

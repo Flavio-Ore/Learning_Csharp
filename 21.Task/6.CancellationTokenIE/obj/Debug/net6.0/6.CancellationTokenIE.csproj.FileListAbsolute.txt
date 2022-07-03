@@ -1,0 +1,15 @@
+D:\Csharp\21.Task\6.CancellationTokenIE\bin\Debug\net6.0\6.CancellationTokenIE.exe
+D:\Csharp\21.Task\6.CancellationTokenIE\bin\Debug\net6.0\6.CancellationTokenIE.deps.json
+D:\Csharp\21.Task\6.CancellationTokenIE\bin\Debug\net6.0\6.CancellationTokenIE.runtimeconfig.json
+D:\Csharp\21.Task\6.CancellationTokenIE\bin\Debug\net6.0\6.CancellationTokenIE.dll
+D:\Csharp\21.Task\6.CancellationTokenIE\bin\Debug\net6.0\6.CancellationTokenIE.pdb
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\6.CancellationTokenIE.csproj.AssemblyReference.cache
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\6.CancellationTokenIE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\6.CancellationTokenIE.AssemblyInfoInputs.cache
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\6.CancellationTokenIE.AssemblyInfo.cs
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\6.CancellationTokenIE.csproj.CoreCompileInputs.cache
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\6.CancellationTokenIE.dll
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\refint\6.CancellationTokenIE.dll
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\6.CancellationTokenIE.pdb
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\6.CancellationTokenIE.genruntimeconfig.cache
+D:\Csharp\21.Task\6.CancellationTokenIE\obj\Debug\net6.0\ref\6.CancellationTokenIE.dll

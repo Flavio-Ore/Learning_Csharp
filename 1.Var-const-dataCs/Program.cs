@@ -4,13 +4,13 @@ using System;
 
 namespace MyApp // Note: actual namespace depends on the project name.
 {
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World!");
-        }
-    }
+	internal class Program
+	{
+		static void Main(string[] args)
+		{
+			Console.WriteLine("Hello World!");
+		}
+	}
 } 
 See https://aka.ms/new-console-template for more information
 
@@ -20,8 +20,10 @@ Console.WriteLine("Hello");
 
 Console.WriteLine("What's your name?");
 
-var name = Console.ReadLine();
 var name = "default name";
+
+name = Console.ReadLine();
+
 var currentDate = DateTime.Now;
 
 Console.WriteLine($"{Environment.NewLine}Hello, {name}, on {currentDate:d} at {currentDate:t}!");
@@ -53,8 +55,8 @@ Console.WriteLine(edadModificacle);
 Console.WriteLine(edad2);
 Console.WriteLine(edad3);
 Console.WriteLine(edad4);
-Console.WriteLine(edad9);
-Console.WriteLine(edad7);
+//Console.WriteLine(edad9);
+//Console.WriteLine(edad7);
 
 //var
 var edadNoModificable = 11; //no se puede modificar
@@ -73,64 +75,82 @@ Console.WriteLine(edadString);
 double temperatura = 22.3; //double, decimales
 
 //&conversión double to int
+
 int temperaturaLima; //int, enteros
+
 Console.WriteLine(temperatura);
+
 //el valor de temperatura lo paso a entero y luego lo almacena en temperaturaLima
 temperaturaLima = (int) temperatura; 
-Console.WriteLine(temperaturaLima); 
-//*NO REDONDEA, SOLO QUITA EL DECIMAL
 
+Console.WriteLine(temperaturaLima); 
+
+//*NO REDONDEA, SOLO QUITA EL DECIMAL
 
 //?conversión IMPLICIT, casting------------------------------------------------
 int habitantesCiudad = 9999;
+
 long habitantesCiudad2018 = habitantesCiudad;
+
 //habitantesCuidad es inicializada como long
 //luego almacenada el valor de tipo int habitantesCiudad como long
 Console.WriteLine(habitantesCiudad2018);
 
-
 //&conversión flaot to double
 
 //*VARIABLE DE TIPO FLOAT SIEMPRE LLEVA SUFIJO F
-float pesoMaterial = 5.78F;
+float pesoMaterial = 5.78f;
+
 //*DOUBLE ES UN VALOR DECIMAL PERO EL DOBLE DE PRECISO
 double pesoMaterialPrecio = pesoMaterial;
-Console.WriteLine(pesoMaterial);
-Console.WriteLine(pesoMaterialPrecio);
 
+Console.WriteLine(pesoMaterial);
+
+Console.WriteLine(pesoMaterialPrecio);
 
 //?muy implícita--------------------------------------------------------------
 int soyImplicito = 1294;
+
 double soyMasImplicito;
+
 soyMasImplicito = soyImplicito;
+
 Console.WriteLine(soyMasImplicito);
 
 //?typeConversion--------------------------------------------------------------
+
 //& string to a number
 
 //~ EXCEPTIONS ↓
 Console.WriteLine("Introduce el primer valor numérico");
+
 int num1 = int.Parse(Console.ReadLine());//error: puede recibir simbolos no numericos
 
 Console.WriteLine("Introduce el segundo valor numérico");
-int num2 = int.Parse(Console.ReadLine()); //error: puede recibir simbolos no numericos
+
+int num2 = Convert.ToInt32(Console.ReadLine()); //error: puede recibir simbolos no numericos
 
 Console.WriteLine($"La suma de ambos valores es: {num1 + num2}");
 //~ EXCEPTIONS ↑
 
 string numString1 = "12";
+
 string numString2 = "78";
+
 int resultado = Int32.Parse(numString1) + Int32.Parse(numString2);
 
 Console.WriteLine($"El resultado de la suma es {resultado}");
 
 //!=============================================================================
+
 //?const-----------------------------------------------------------------------
 //siempre se les asigna un nombre en mayúscula
 const string VALOR = "Una constante siempre va en mayúscula";
+
 const int VALORDOS = 123;
 
 Console.WriteLine($"DATO IMPORTANTE: {VALOR}. Numero.{VALORDOS}");
+
 Console.WriteLine("El valor de la constante es string primero y luego int respectivamente: {1} , {0}", VALOR, VALORDOS);
 
 //?operacion-------------------------------------------------------
@@ -141,7 +161,9 @@ Console.WriteLine("Introduce el radio de la cirfunferencia: ");
 double radio = float.Parse(Console.ReadLine());
 
 double areaDelCirculo = Math.Pow(radio,2); //elevando al cuadrado el radio
+
 Console.WriteLine($"El área del circulo es: {areaDelCirculo} "); 
+
 //? float * double error?
 
 //!=============================================================================

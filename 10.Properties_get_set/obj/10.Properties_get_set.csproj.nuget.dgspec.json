@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\10.Properties_get_set\\10.Properties_get_set.csproj": {}
+    "d:\\Csharp\\10.Properties_get_set\\10.Properties_get_set.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\10.Properties_get_set\\10.Properties_get_set.csproj": {
+    "d:\\Csharp\\10.Properties_get_set\\10.Properties_get_set.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\10.Properties_get_set\\10.Properties_get_set.csproj",
+        "projectUniqueName": "d:\\Csharp\\10.Properties_get_set\\10.Properties_get_set.csproj",
         "projectName": "10.Properties_get_set",
-        "projectPath": "D:\\Csharp\\10.Properties_get_set\\10.Properties_get_set.csproj",
+        "projectPath": "d:\\Csharp\\10.Properties_get_set\\10.Properties_get_set.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\10.Properties_get_set\\obj\\",
+        "outputPath": "d:\\Csharp\\10.Properties_get_set\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

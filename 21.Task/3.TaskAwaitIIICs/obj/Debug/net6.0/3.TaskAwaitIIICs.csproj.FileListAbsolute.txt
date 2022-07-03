@@ -1,0 +1,15 @@
+D:\Csharp\21.Task\3.TaskAwaitIIICs\bin\Debug\net6.0\3.TaskAwaitIIICs.exe
+D:\Csharp\21.Task\3.TaskAwaitIIICs\bin\Debug\net6.0\3.TaskAwaitIIICs.deps.json
+D:\Csharp\21.Task\3.TaskAwaitIIICs\bin\Debug\net6.0\3.TaskAwaitIIICs.runtimeconfig.json
+D:\Csharp\21.Task\3.TaskAwaitIIICs\bin\Debug\net6.0\3.TaskAwaitIIICs.dll
+D:\Csharp\21.Task\3.TaskAwaitIIICs\bin\Debug\net6.0\3.TaskAwaitIIICs.pdb
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\3.TaskAwaitIIICs.csproj.AssemblyReference.cache
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\3.TaskAwaitIIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\3.TaskAwaitIIICs.AssemblyInfoInputs.cache
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\3.TaskAwaitIIICs.AssemblyInfo.cs
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\3.TaskAwaitIIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\3.TaskAwaitIIICs.dll
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\refint\3.TaskAwaitIIICs.dll
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\3.TaskAwaitIIICs.pdb
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\3.TaskAwaitIIICs.genruntimeconfig.cache
+D:\Csharp\21.Task\3.TaskAwaitIIICs\obj\Debug\net6.0\ref\3.TaskAwaitIIICs.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Csharp\\12.Enum\\12.Enum.csproj": {}
+    "d:\\Csharp\\12.Enum\\12.Enum.csproj": {}
   },
   "projects": {
-    "D:\\Csharp\\12.Enum\\12.Enum.csproj": {
+    "d:\\Csharp\\12.Enum\\12.Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Csharp\\12.Enum\\12.Enum.csproj",
+        "projectUniqueName": "d:\\Csharp\\12.Enum\\12.Enum.csproj",
         "projectName": "12.Enum",
-        "projectPath": "D:\\Csharp\\12.Enum\\12.Enum.csproj",
+        "projectPath": "d:\\Csharp\\12.Enum\\12.Enum.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "D:\\Csharp\\12.Enum\\obj\\",
+        "outputPath": "d:\\Csharp\\12.Enum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"

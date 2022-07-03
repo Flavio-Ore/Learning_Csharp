@@ -1,0 +1,15 @@
+D:\Csharp\21.Task\1.TaskICs\bin\Debug\net6.0\1.TaskICs.exe
+D:\Csharp\21.Task\1.TaskICs\bin\Debug\net6.0\1.TaskICs.deps.json
+D:\Csharp\21.Task\1.TaskICs\bin\Debug\net6.0\1.TaskICs.runtimeconfig.json
+D:\Csharp\21.Task\1.TaskICs\bin\Debug\net6.0\1.TaskICs.dll
+D:\Csharp\21.Task\1.TaskICs\bin\Debug\net6.0\1.TaskICs.pdb
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\1.TaskICs.csproj.AssemblyReference.cache
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\1.TaskICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\1.TaskICs.AssemblyInfoInputs.cache
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\1.TaskICs.AssemblyInfo.cs
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\1.TaskICs.csproj.CoreCompileInputs.cache
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\1.TaskICs.dll
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\refint\1.TaskICs.dll
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\1.TaskICs.pdb
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\1.TaskICs.genruntimeconfig.cache
+D:\Csharp\21.Task\1.TaskICs\obj\Debug\net6.0\ref\1.TaskICs.dll

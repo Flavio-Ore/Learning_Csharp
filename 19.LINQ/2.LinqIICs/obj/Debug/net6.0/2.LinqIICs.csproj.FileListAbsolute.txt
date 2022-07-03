@@ -1,0 +1,15 @@
+D:\Csharp\19.LINQ\2.LinqIICs\bin\Debug\net6.0\2.LinqIICs.exe
+D:\Csharp\19.LINQ\2.LinqIICs\bin\Debug\net6.0\2.LinqIICs.deps.json
+D:\Csharp\19.LINQ\2.LinqIICs\bin\Debug\net6.0\2.LinqIICs.runtimeconfig.json
+D:\Csharp\19.LINQ\2.LinqIICs\bin\Debug\net6.0\2.LinqIICs.dll
+D:\Csharp\19.LINQ\2.LinqIICs\bin\Debug\net6.0\2.LinqIICs.pdb
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\2.LinqIICs.csproj.AssemblyReference.cache
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\2.LinqIICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\2.LinqIICs.AssemblyInfoInputs.cache
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\2.LinqIICs.AssemblyInfo.cs
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\2.LinqIICs.csproj.CoreCompileInputs.cache
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\2.LinqIICs.dll
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\refint\2.LinqIICs.dll
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\2.LinqIICs.pdb
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\2.LinqIICs.genruntimeconfig.cache
+D:\Csharp\19.LINQ\2.LinqIICs\obj\Debug\net6.0\ref\2.LinqIICs.dll

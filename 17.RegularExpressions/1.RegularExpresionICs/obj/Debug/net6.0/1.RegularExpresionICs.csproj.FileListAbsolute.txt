@@ -1,0 +1,15 @@
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\1.RegularExpresionICs.csproj.AssemblyReference.cache
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\1.RegularExpresionICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\1.RegularExpresionICs.AssemblyInfoInputs.cache
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\1.RegularExpresionICs.AssemblyInfo.cs
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\1.RegularExpresionICs.csproj.CoreCompileInputs.cache
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\bin\Debug\net6.0\1.RegularExpresionICs.exe
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\bin\Debug\net6.0\1.RegularExpresionICs.deps.json
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\bin\Debug\net6.0\1.RegularExpresionICs.runtimeconfig.json
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\bin\Debug\net6.0\1.RegularExpresionICs.dll
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\bin\Debug\net6.0\1.RegularExpresionICs.pdb
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\1.RegularExpresionICs.dll
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\refint\1.RegularExpresionICs.dll
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\1.RegularExpresionICs.pdb
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\1.RegularExpresionICs.genruntimeconfig.cache
+D:\Csharp\17.RegularExpressions\1.RegularExpresionICs\obj\Debug\net6.0\ref\1.RegularExpresionICs.dll

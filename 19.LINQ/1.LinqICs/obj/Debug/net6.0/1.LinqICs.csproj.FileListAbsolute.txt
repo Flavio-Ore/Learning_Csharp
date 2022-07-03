@@ -1,0 +1,15 @@
+D:\Csharp\19.LINQ\1.LinqICs\bin\Debug\net6.0\1.LinqICs.exe
+D:\Csharp\19.LINQ\1.LinqICs\bin\Debug\net6.0\1.LinqICs.deps.json
+D:\Csharp\19.LINQ\1.LinqICs\bin\Debug\net6.0\1.LinqICs.runtimeconfig.json
+D:\Csharp\19.LINQ\1.LinqICs\bin\Debug\net6.0\1.LinqICs.dll
+D:\Csharp\19.LINQ\1.LinqICs\bin\Debug\net6.0\1.LinqICs.pdb
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\1.LinqICs.csproj.AssemblyReference.cache
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\1.LinqICs.GeneratedMSBuildEditorConfig.editorconfig
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\1.LinqICs.AssemblyInfoInputs.cache
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\1.LinqICs.AssemblyInfo.cs
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\1.LinqICs.csproj.CoreCompileInputs.cache
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\1.LinqICs.dll
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\refint\1.LinqICs.dll
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\1.LinqICs.pdb
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\1.LinqICs.genruntimeconfig.cache
+D:\Csharp\19.LINQ\1.LinqICs\obj\Debug\net6.0\ref\1.LinqICs.dll
